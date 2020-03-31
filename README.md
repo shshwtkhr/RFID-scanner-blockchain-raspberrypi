@@ -50,5 +50,7 @@ A separate node account can be created just for your RFID scanner node(s) and an
 
 **References:**
 https://www.hackster.io/firmwareguru/build-an-rfid-scanner-for-blockchain-1fbdb3
+
 https://github.com/EOSIoT/rfid-scanner-node
+
 demo web application: https://github.com/EOSIoT/rfid-html
