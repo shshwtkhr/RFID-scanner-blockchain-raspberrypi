@@ -1,0 +1,5 @@
+The RFID scanner software has a private key enabling it to submit RFID tag data on behalf of the
+eosiot11node account. The tag's UID data is placed into a database hosted by a smart contract under
+the eosiot11rfid account. I found was that the accounts 'eosiot11node' and 'eosiot11rfid' on the EOS blockchain were hacked. So, the solution for this should be to create new accounts similar to and corresponding to the accounts 'eosiot11node' and 'eosiot11rfid' on the EOS blockchain platform and replace these old account names with the new ones in the source code.
+Reference:
+https://github.com/EOSIoT/rfid-scanner-node/issues/3
