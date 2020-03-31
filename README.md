@@ -10,8 +10,11 @@ EOS was selected for the project because it offers these key features:
 We'll connect the MFRC522 RFID chip/antenna board and buzzer to the Pi's expansion header, download our device software repository to a directory on our Raspberry Pi, run `npm install`, and then `sudo node rfid-scanner-eos-rpi.js`. Place tags within 2 cm of the antenna and view the web application (at https://github.com/EOSIoT/rfid-html) to see the scanned tag UID appear with seconds.
 
 **Hardware used:**
+
   •	Raspberry Pi 3 Model B	
+  
   •	MFRC522 (RFID Reader)
+  
   •	Active buzzer. These are simple two-wire tone-generators, like this-https://components101.com/buzzer-pinout-working-datasheet.
 
 **Hardware setup:**
