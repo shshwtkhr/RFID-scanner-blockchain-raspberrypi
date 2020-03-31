@@ -49,6 +49,7 @@ A finite amount of resources has been pre-allocated to support this project (req
 A separate node account can be created just for your RFID scanner node(s) and an appropriate amount of EOS can be allocated to support your expected transaction requirements.
 
 **References:**
+
 https://www.hackster.io/firmwareguru/build-an-rfid-scanner-for-blockchain-1fbdb3
 
 https://github.com/EOSIoT/rfid-scanner-node
